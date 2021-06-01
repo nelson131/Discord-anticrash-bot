@@ -1,0 +1,16 @@
+{
+  "name": "anticrashbot",
+  "version": "1.0.0",
+  "description": "Thought process & Explanation of Implementation",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "z1gor",
+  "license": "ISC"
+}
