@@ -77,8 +77,3 @@ client.on (`message`, message => {
 });
 
 
-client.on (`message`, message => {
-  if (message.content === "соси") {
-    message.channel.send (`сам соси`)
-  }
-});
