@@ -35,7 +35,7 @@ client.on('message', message => {
     }
 
 
-           // Code by z1gor //
+           // Code by nelson //
 
            
     else {
