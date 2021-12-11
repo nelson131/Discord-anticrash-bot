@@ -34,9 +34,6 @@ client.on('message', message => {
       usersMap.set(message.author.id, userData);
     }
 
-
-           // Code by nelson //
-
            
     else {
       ++msgCount;
